@@ -3,7 +3,7 @@ const timer = new Timer();
 const WIN = {
   name: "win",
   //img: "../img/trophy.svg" // uncomment if on a local server
-  text: ["Congratulations!", "br", "you stayed awake and was able to bid on time!"]
+  text: ["Congratulations!", "br", "you stayed awake and were able to bid on time!"]
 };
 const LOSE = {
   name: "lose",
